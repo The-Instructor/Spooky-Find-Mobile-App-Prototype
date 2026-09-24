@@ -1,2 +1,1 @@
-# Prototype Link
-![Prototype Link](https://www.figma.com/proto/VMX5JWU7cNDnuTxOvOBxcl/Spooky-Find-Prototype?node-id=1-22&viewport=-905%2C52%2C0.81&t=gjLma3C9AsDyM329-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A22&show-proto-sidebar=1&page-id=0%3A1)
+# [Prototype Link](https://www.figma.com/proto/VMX5JWU7cNDnuTxOvOBxcl/Spooky-Find-Prototype?node-id=1-22&viewport=-905%2C52%2C0.81&t=gjLma3C9AsDyM329-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A22&show-proto-sidebar=1&page-id=0%3A1)
